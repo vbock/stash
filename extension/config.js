@@ -9,7 +9,7 @@ const CONFIG = {
   SUPABASE_ANON_KEY: 'sb_publishable_1MyQerloz-8TDwO0PHXeyQ_9tUj9UXI',
 
   // Your web app URL (after deploying to Vercel/Netlify)
-  WEB_APP_URL: 'https://stash-fyfltfp3c-valeries-projects-bc27b682.vercel.app/.',
+  WEB_APP_URL: 'https://stash-ten-gules.vercel.app/.',
 
   // Your user ID from Supabase (Authentication > Users)
   // For multi-user mode, this can be removed and auth will be required
